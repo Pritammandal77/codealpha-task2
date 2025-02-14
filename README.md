@@ -4,11 +4,10 @@ A **fully responsive calculator** built using **HTML, CSS, and JavaScript** as p
 
 ## ✨ Features
 
-- ✅ Perform basic arithmetic operations (+, -, *, /)
+- ✅ Perform basic arithmetic operations (+, -, *, /, % )
 - ✅ Fully responsive design for desktops, tablets, and mobiles
 - ✅ Simple and user-friendly interface
 - ✅ Clear button to reset the display
-- ✅ Keyboard input support
 
 ## 📂 Technologies Used
 
